@@ -7,4 +7,4 @@
 一个注重隐私的高中生在看了密钥协商和对称加密后研究半天写的简陋程序
 
 
-Though the possibility of being sniffing in Euro countires is smaller than in some regions,the possibility does exist. My codes won't block your messages from the sniffers,but it will set a few barriers.
+Though the possibility of being sniffed in Euro countires is smaller than in some other regions,the possibility does exist. My code won't block your messages from the sniffers,but it will set a few barriers.
