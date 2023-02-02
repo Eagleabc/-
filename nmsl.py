@@ -39,7 +39,7 @@ x=(p**a)%g
 print("q=",x)
 print("请告知对方生成数q")
 q=int(input("请输入对方告知的生成数q"))
-key=(p**a)%g
+key=(q**a)%g
 
 key=str(key)#密钥转化为字符串
 key=add_to_16(key)#key补全部分
